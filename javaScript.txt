@@ -1,0 +1,25 @@
+JavaScript
+      prinln("hello world");
+	  consol.log("hello world");
+	  
+ Variable:
+ 
+	  String name;
+	  let name;
+	  String name="bhagi";
+	  let name="bhagi";
+	  
+code:
+	  
+ let name;
+ name="bhagi";
+ consol.log(name);
+	  
+let name="bhagi";
+consol.log(name);	  
+	  
+	  
+js in browser
+      inspect and then click on consol
+	
+	
